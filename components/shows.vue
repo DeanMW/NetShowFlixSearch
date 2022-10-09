@@ -7,8 +7,8 @@
 </template>
 
 <script setup lang="ts">
-import { useShowStore } from '~~/store/shows';
-import { Show, Genre } from '~~/types/show';
+import { useShowStore } from '@/store/shows';
+import { Show, Genre } from '@/types/show';
 
 defineProps<{
   shows: Show[],

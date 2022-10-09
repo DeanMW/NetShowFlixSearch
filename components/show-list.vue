@@ -6,7 +6,7 @@
 </template>
 
 <script setup lang="ts">
-import { Genre } from '~~/types/show';
+import { Genre } from '@/types/show';
 
 defineProps<{
   genre: Genre,

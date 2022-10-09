@@ -67,7 +67,7 @@
 </template>
 
 <script setup lang="ts">
-import { Show } from '~~/types/show';
+import { Show } from '@/types/show';
 
 defineProps<{
   show: Show,

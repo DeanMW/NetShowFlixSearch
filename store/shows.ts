@@ -1,5 +1,5 @@
 import { defineStore } from 'pinia';
-import { Show, Genre } from '~~/types/show';
+import { Show, Genre } from '@/types/show';
 
 enum ratingDirection {
     ascending = 'ascending',

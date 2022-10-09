@@ -7,8 +7,8 @@
 </template>
 
 <script setup lang="ts">
-import { useShowStore } from '~~/store/shows';
-import { Show } from '~~/types/show';
+import { useShowStore } from '@/store/shows';
+import { Show } from '@/types/show';
 const showStore = useShowStore();
 
 // Get first 250 shows from the API.
