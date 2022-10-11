@@ -7,10 +7,13 @@
     </div>
 
     <div v-if="showStore.searchedShows.length">
-      <p> {{ $route.params.showname }}</p>
-      <show-list>
+      <h3 class="flex justify-center text-3xl font-bold mb-8">
+        {{ $route.params.showname }}
+      </h3>
+
+      <div class="searched-items flex justify-center flex-wrap">
         <show-list-item v-for="searchedShow in showStore.searchedShows" :key="searchedShow.show.id" :show="searchedShow.show" />
-      </show-list>
+      </div>
     </div>
   </div>
 </template>

@@ -33,8 +33,6 @@ const searchShows = async () => {
     await navigateTo(`/search/${showName.value}`);
   }
 };
-// stuff will go here, no idea what.
-// do the search functionality here?
 </script>
 
 <style lang="scss">
