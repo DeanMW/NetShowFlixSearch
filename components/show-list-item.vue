@@ -1,6 +1,6 @@
 <template>
   <div :id="`${show.id}-card`" class="card">
-    <NuxtLink :to="`${show.id}/show`">
+    <NuxtLink :to="`/${show.id}/show`">
       <div class="card__content">
         <div class="card__image">
           <img loading="lazy" :src="show.image.medium" alt="title image for the specific show">
