@@ -8,7 +8,7 @@
 
     <div v-if="showStore.searchedShows.length">
       <h3 class="flex justify-center text-3xl font-bold mb-8">
-        {{ $route.params.showname }}
+        results for: {{ $route.params.showname }}
       </h3>
 
       <div class="searched-items flex justify-center flex-wrap">

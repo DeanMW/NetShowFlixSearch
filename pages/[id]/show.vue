@@ -6,13 +6,31 @@
       </button>
     </div>
 
-    <p> {{ $route.params.id }}</p>
+    <div v-if="show" class="m-10 border p-5">
+      <div class="show__image-container flex justify-center">
+        <img :src="show.image?.original" alt="selected show bannner image">
+      </div>
 
-    <hr>
+      <div class="flex justify-center p-5">
+        <h3 class="flex justify-center text-3xl font-bold mb-8">
+          {{ show.name }}
+        </h3>
+      </div>
 
-    <div>
-      {{ showStore.show }}
+      <div class="show__summary">
+        <p v-html="show.summary" />
+      </div>
+
+      <!-- <div class="show__episodes">
+        {{ show._embedded.episodes.length }} episodes
+      </div>
+
+      <div class="show__cast">
+        {{ show._embedded.cast }}
+      </div> -->
     </div>
+
+    {{ show }}
   </div>
 </template>
 
@@ -25,6 +43,7 @@ definePageMeta({
 
 const route = useRoute();
 const showStore = useShowStore();
+const show = computed(() => showStore.show);
 
 if (route.params.id) {
   console.log('this is the shows id:', route.params.id);
@@ -44,3 +63,11 @@ const redirectHome = async () => {
   await navigateTo('/');
 };
 </script>
+
+<style lang="scss">
+  .show__image-container {
+    width: 100%;
+    height: 400px;
+    background-color: black;
+  }
+  </style>
