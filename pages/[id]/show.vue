@@ -8,7 +8,8 @@
 
     <div v-if="show" class="m-10 border p-5">
       <div class="show__image-container flex justify-center">
-        <img :src="show.image?.original" alt="selected show bannner image">
+        <img class="show__image--desktop" :src="show.image?.original" alt="selected show bannner image">
+        <img class="show__image--mobile" :src="show.image?.medium" alt="selected show bannner image">
       </div>
 
       <div class="flex justify-center p-5">
@@ -20,23 +21,13 @@
       <div class="show__summary">
         <p v-html="show.summary" />
       </div>
-
-      <!-- <div class="show__episodes">
-        asdasd
-        {{ show['_embedded'].episodes.length }} episodes
-      </div> -->
-
-      <!-- <div class="show__cast">
-        {{ show.links }}
-      </div> -->
     </div>
-
-    <!-- {{ show }} -->
   </div>
 </template>
 
 <script setup lang="ts">
 import { useShowStore } from '@/store/shows';
+import { Show } from '@/types/show';
 
 definePageMeta({
   title: 'NetShowFlixSearch - Show Details'
@@ -47,21 +38,16 @@ const showStore = useShowStore();
 const show = computed(() => showStore.show);
 
 if (route.params.id) {
-  console.log('this is the shows id:', route.params.id);
-
   // make sure typing is correct so typescript is happy.
   const showId: number = parseInt(route.params.id as string);
 
   showStore.fetchSelectedShow(showId);
-} else {
-  console.log('no id was found');
 }
 
 const redirectHome = async () => {
-  console.log('redirecting to home');
-  showStore.$patch({ show: {} });
-
   await navigateTo('/');
+
+  showStore.show = {} as Show;
 };
 </script>
 
@@ -71,4 +57,18 @@ const redirectHome = async () => {
     height: 400px;
     background-color: black;
   }
-  </style>
+
+  .show__image {
+    &--desktop {
+      @media (max-width: 768px) {
+        display: none;
+      }
+    }
+
+    &--mobile {
+      @media (min-width: 768px) {
+        display:none;
+      }
+    }
+  }
+</style>
