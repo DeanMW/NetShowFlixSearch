@@ -22,15 +22,16 @@
       </div>
 
       <!-- <div class="show__episodes">
-        {{ show._embedded.episodes.length }} episodes
-      </div>
+        asdasd
+        {{ show['_embedded'].episodes.length }} episodes
+      </div> -->
 
-      <div class="show__cast">
-        {{ show._embedded.cast }}
+      <!-- <div class="show__cast">
+        {{ show.links }}
       </div> -->
     </div>
 
-    {{ show }}
+    <!-- {{ show }} -->
   </div>
 </template>
 
