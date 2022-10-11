@@ -161,3 +161,8 @@ export interface Show {
     updated: number;
     links: Links;
 }
+
+export interface searchedShows {
+    score: number;
+    show: Show;
+}
