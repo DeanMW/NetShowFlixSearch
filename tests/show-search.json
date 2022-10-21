@@ -1,0 +1,610 @@
+[
+    {
+        "score": 0.70080644,
+        "show": {
+            "id": 12,
+            "url": "https://www.tvmaze.com/shows/12/lost-girl",
+            "name": "Lost Girl",
+            "type": "Scripted",
+            "language": "English",
+            "genres": [
+                "Drama",
+                "Fantasy",
+                "Horror"
+            ],
+            "status": "Ended",
+            "runtime": 60,
+            "averageRuntime": 60,
+            "premiered": "2010-09-12",
+            "ended": "2015-10-25",
+            "officialSite": "http://www.showcase.ca/lostgirl",
+            "schedule": {
+                "time": "22:00",
+                "days": [
+                    "Sunday"
+                ]
+            },
+            "rating": {
+                "average": 8.1
+            },
+            "weight": 96,
+            "network": {
+                "id": 6,
+                "name": "Showcase",
+                "country": {
+                    "name": "Canada",
+                    "code": "CA",
+                    "timezone": "America/Halifax"
+                },
+                "officialSite": null
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": 26401,
+                "thetvdb": 182061,
+                "imdb": "tt1429449"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/137.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/137.jpg"
+            },
+            "summary": "<p><b>Lost Girl</b> follows supernatural seductress Bo, a Succubus who feeds on the sexual energy of humans. Growing up with human parents, Bo had no reason to believe she was anything other than the girl next door — until she drained her boyfriend to death in their first sexual encounter. Now she has hit the road alone and afraid. <br /> She discovers she is one of the Fae, creatures of legend and folklore, who pass as humans while feeding off them secretly and in different ways, as they have for millennia. Relieved yet horrified to find out that she is not alone, Bo decides to take the middle path between the humans and the Fae while embarking on a personal mission to unlock the secrets of her origin.</p><p>With the help of her human sidekick, Kenzi, and Dyson, a sexy police detective, Bo takes on a challenge every week helping a Fae or human client who comes to her to solve a mystery, or to right a wrong.</p>",
+            "updated": 1665512942,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/12"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/316120"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.700727,
+        "show": {
+            "id": 58,
+            "url": "https://www.tvmaze.com/shows/58/new-girl",
+            "name": "New Girl",
+            "type": "Scripted",
+            "language": "English",
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "status": "Ended",
+            "runtime": 30,
+            "averageRuntime": 30,
+            "premiered": "2011-09-20",
+            "ended": "2018-05-15",
+            "officialSite": "http://www.fox.com/new-girl/",
+            "schedule": {
+                "time": "21:30",
+                "days": [
+                    "Tuesday"
+                ]
+            },
+            "rating": {
+                "average": 7.2
+            },
+            "weight": 97,
+            "network": {
+                "id": 4,
+                "name": "FOX",
+                "country": {
+                    "name": "United States",
+                    "code": "US",
+                    "timezone": "America/New_York"
+                },
+                "officialSite": "https://www.fox.com/"
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": 28304,
+                "thetvdb": 248682,
+                "imdb": "tt1826940"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/145/364581.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/145/364581.jpg"
+            },
+            "summary": "<p><b>New Girl</b> is a single-camera ensemble comedy starring Zooey Deschanel as Jess, an offbeat girl who - after a bad breakup - moves in with three single guys and essentially sets a bomb off in their lives.</p>",
+            "updated": 1657242694,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/58"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/1430633"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.70024467,
+        "show": {
+            "id": 43051,
+            "url": "https://www.tvmaze.com/shows/43051/gossip-girl",
+            "name": "Gossip Girl",
+            "type": "Scripted",
+            "language": "English",
+            "genres": [
+                "Drama",
+                "Romance"
+            ],
+            "status": "Running",
+            "runtime": null,
+            "averageRuntime": 58,
+            "premiered": "2021-07-08",
+            "ended": null,
+            "officialSite": "https://www.hbomax.com/series/urn:hbo:series:GYME4cgyGt6EnCgEAAAAv",
+            "schedule": {
+                "time": "",
+                "days": [
+                    "Thursday"
+                ]
+            },
+            "rating": {
+                "average": 6.6
+            },
+            "weight": 96,
+            "network": null,
+            "webChannel": {
+                "id": 329,
+                "name": "HBO Max",
+                "country": null,
+                "officialSite": "https://www.hbomax.com/"
+            },
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 377114,
+                "imdb": "tt10653784"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/334/837211.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/334/837211.jpg"
+            },
+            "summary": "<p>Nearly a decade after the original <b>Gossip Girl</b>'s website went dark, a new generation of New York City private school teens are introduced to the unflattering reality of 24/7 social surveillance.</p>",
+            "updated": 1646032039,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/43051"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/2214644"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.6919048,
+        "show": {
+            "id": 4252,
+            "url": "https://www.tvmaze.com/shows/4252/our-girl",
+            "name": "Our Girl",
+            "type": "Scripted",
+            "language": "English",
+            "genres": [
+                "Drama",
+                "War",
+                "Medical"
+            ],
+            "status": "Ended",
+            "runtime": 60,
+            "averageRuntime": 60,
+            "premiered": "2014-09-21",
+            "ended": "2020-04-28",
+            "officialSite": "http://www.bbc.co.uk/programmes/p0260ych",
+            "schedule": {
+                "time": "21:00",
+                "days": [
+                    "Tuesday"
+                ]
+            },
+            "rating": {
+                "average": 7.9
+            },
+            "weight": 79,
+            "network": {
+                "id": 12,
+                "name": "BBC One",
+                "country": {
+                    "name": "United Kingdom",
+                    "code": "GB",
+                    "timezone": "Europe/London"
+                },
+                "officialSite": "https://www.bbc.co.uk/bbcone"
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": 34907,
+                "thetvdb": 278640,
+                "imdb": "tt3815412"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/133/334764.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/133/334764.jpg"
+            },
+            "summary": "<p>Drama following the extraordinary adventures of female medics in the British Army.</p>",
+            "updated": 1600171048,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/4252"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/1846515"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.6898422,
+        "show": {
+            "id": 15361,
+            "url": "https://www.tvmaze.com/shows/15361/peach-girl",
+            "name": "Peach Girl",
+            "type": "Animation",
+            "language": "Japanese",
+            "genres": [
+                "Drama",
+                "Comedy"
+            ],
+            "status": "Ended",
+            "runtime": 25,
+            "averageRuntime": 25,
+            "premiered": "2005-01-08",
+            "ended": "2005-06-25",
+            "officialSite": "http://www.tv-tokyo.co.jp/anime/peachgirl/",
+            "schedule": {
+                "time": "",
+                "days": [
+                    "Saturday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 73,
+            "network": {
+                "id": 76,
+                "name": "TV Tokyo",
+                "country": {
+                    "name": "Japan",
+                    "code": "JP",
+                    "timezone": "Asia/Tokyo"
+                },
+                "officialSite": null
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 78883,
+                "imdb": "tt1409913"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/52/130469.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/52/130469.jpg"
+            },
+            "summary": "<p><b>Peach Girl</b> is about an average high school girl, Momo Adachi, who everyone thinks is a beach bunny / slut because of her tanned skin. The actual reason she is so tanned is because she was on the swim team and tans very easily. She likes a boy, Toji, who she heard only likes non-tanned girls. This causes her to question who she is and have low self esteem. She spends a lot of time trying to remake herself into the girl she believes he wants. However, she has a friend, Sae, who likes to go behind Momo's back and make her life terrible, mostly by trying to take Toji away from her. All the while there's another boy, Kairi, who is in love with Momo.</p>",
+            "updated": 1639787046,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/15361"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/698404"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.6896039,
+        "show": {
+            "id": 567,
+            "url": "https://www.tvmaze.com/shows/567/gossip-girl",
+            "name": "Gossip Girl",
+            "type": "Scripted",
+            "language": "English",
+            "genres": [
+                "Drama",
+                "Romance"
+            ],
+            "status": "Ended",
+            "runtime": 60,
+            "averageRuntime": 60,
+            "premiered": "2007-09-19",
+            "ended": "2012-12-17",
+            "officialSite": null,
+            "schedule": {
+                "time": "21:00",
+                "days": [
+                    "Monday"
+                ]
+            },
+            "rating": {
+                "average": 7.4
+            },
+            "weight": 75,
+            "network": {
+                "id": 5,
+                "name": "The CW",
+                "country": {
+                    "name": "United States",
+                    "code": "US",
+                    "timezone": "America/New_York"
+                },
+                "officialSite": "https://www.cwtv.com/"
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": 15619,
+                "thetvdb": 80547,
+                "imdb": "tt0397442"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/42/106320.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/42/106320.jpg"
+            },
+            "summary": "<p>The privileged prep school teens on Manhattan's Upper East Side first learn that notorious party girl Serena van der Woodsen is back in town the way they learn all the important news in their lives -- from the blog of the all-knowing albeit ultra-secretive <b>Gossip Girl</b>. No one knows Gossip Girl's identity, but everyone in this exclusive and complicated vicious circle relies on her website and text messages for the latest scoop. Even Serena's closest and most competitive friend, Blair Waldorf, is surprised to find that Serena has suddenly ended her self-imposed exile to boarding school and returned to Manhattan. This is a world you have to be born into, full of wealth, power, and prestige, keeping track of the constantly shifting friendships, jealousies and turmoil in this complex world isn't easy, but it's what Gossip Girl does best.</p>",
+            "updated": 1647215419,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/567"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/53281"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.68538135,
+        "show": {
+            "id": 10054,
+            "url": "https://www.tvmaze.com/shows/10054/working-girl",
+            "name": "Working Girl",
+            "type": "Scripted",
+            "language": "English",
+            "genres": [
+                "Comedy"
+            ],
+            "status": "Ended",
+            "runtime": 30,
+            "averageRuntime": 30,
+            "premiered": "1990-04-16",
+            "ended": "1990-07-30",
+            "officialSite": null,
+            "schedule": {
+                "time": "20:30",
+                "days": [
+                    "Monday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 67,
+            "network": {
+                "id": 1,
+                "name": "NBC",
+                "country": {
+                    "name": "United States",
+                    "code": "US",
+                    "timezone": "America/New_York"
+                },
+                "officialSite": "https://www.nbc.com/"
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 75283,
+                "imdb": "tt0098951"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/34/85879.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/34/85879.jpg"
+            },
+            "summary": "<p><b>Working Girl</b> is an American sitcom that aired on NBC from April to July 1990. Loosely based on the 1988 film of the same name, the series stars Sandra Bullock as Tess McGill</p><p>Tess McGill is a spunky, independent secretary, who suddenly becomes a junior executive after charming company owner A.J. Trask. Tess' first challenge is to survive working with her antagonistic, uptight immediate boss, Mrs. Bryn Newhouse, otherwise known as the \"company witch\". Tess' best friend, Lana Peters is a secretary, who's more interested in doing her nails and rooting for Tess than in getting ahead herself. Meanwhile, Everett Rutledge is a fellow junior executive, who is charming but eager to please. Libby Wentworth is Tess' world-wise, \"permanent temporary\" secretary, who's also a moonlighting musician. Back home each night on Staten Island, Tess has to contend with her doting parents Joe and Fran. Tess also has to contend with Sal Pascarella, the blue-collar neighborhood Romeo, who constantly pursued her.</p>",
+            "updated": 1605426572,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/10054"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/1970178"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.6841253,
+        "show": {
+            "id": 16511,
+            "url": "https://www.tvmaze.com/shows/16511/ice-girl",
+            "name": "Ice Girl",
+            "type": "Scripted",
+            "language": "Korean",
+            "genres": [
+                "Drama",
+                "Romance"
+            ],
+            "status": "Ended",
+            "runtime": 65,
+            "averageRuntime": 65,
+            "premiered": "2005-06-27",
+            "ended": "2005-08-16",
+            "officialSite": "http://www.kbs.co.kr/drama/icegirl/",
+            "schedule": {
+                "time": "21:55",
+                "days": [
+                    "Monday",
+                    "Tuesday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 65,
+            "network": {
+                "id": 128,
+                "name": "KBS2",
+                "country": {
+                    "name": "Korea, Republic of",
+                    "code": "KR",
+                    "timezone": "Asia/Seoul"
+                },
+                "officialSite": null
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": null,
+                "imdb": null
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/55/137603.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/55/137603.jpg"
+            },
+            "summary": "<p>Before the marriage to fiance, a young lady Kim suddenly suffered a heart attack. She was moved to her father's hospital, but her father Dr. Kim was not able to save her. So he took her body and froze her until he could find a way to save her.</p><p>And 25 years later, in 2005, she is revided. But she cannot remember her fiance... and she falls in love with his son...</p>",
+            "updated": 1561872003,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/16511"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/758163"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.6832604,
+        "show": {
+            "id": 1503,
+            "url": "https://www.tvmaze.com/shows/1503/that-girl",
+            "name": "That Girl",
+            "type": "Scripted",
+            "language": "English",
+            "genres": [
+                "Comedy"
+            ],
+            "status": "Ended",
+            "runtime": 30,
+            "averageRuntime": 30,
+            "premiered": "1966-09-08",
+            "ended": "1971-03-19",
+            "officialSite": null,
+            "schedule": {
+                "time": "",
+                "days": [
+                    "Friday"
+                ]
+            },
+            "rating": {
+                "average": 7.2
+            },
+            "weight": 75,
+            "network": {
+                "id": 3,
+                "name": "ABC",
+                "country": {
+                    "name": "United States",
+                    "code": "US",
+                    "timezone": "America/New_York"
+                },
+                "officialSite": "https://abc.com/"
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": 5506,
+                "thetvdb": 70773,
+                "imdb": "tt0060034"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/8/21229.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/8/21229.jpg"
+            },
+            "summary": "<p>A perky aspiring actress tries to start a career in New York, getting encouragement from her boyfriend, Don, and her family. For many young women, Ann Marie was an independent role model for the times (the late '60s) for having left the nest in pursuit of a career. She also inspired trends in fashion with her flipped-up hairdo and cute, mod clothes.</p>",
+            "updated": 1639857910,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/1503"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/135592"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.68267107,
+        "show": {
+            "id": 15090,
+            "url": "https://www.tvmaze.com/shows/15090/material-girl",
+            "name": "Material Girl",
+            "type": "Scripted",
+            "language": "English",
+            "genres": [
+                "Drama",
+                "Comedy",
+                "Romance"
+            ],
+            "status": "Ended",
+            "runtime": 60,
+            "averageRuntime": 60,
+            "premiered": "2010-01-14",
+            "ended": "2010-02-17",
+            "officialSite": "http://www.bbc.co.uk/programmes/b00q08s6",
+            "schedule": {
+                "time": "20:00",
+                "days": [
+                    "Thursday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 65,
+            "network": {
+                "id": 12,
+                "name": "BBC One",
+                "country": {
+                    "name": "United Kingdom",
+                    "code": "GB",
+                    "timezone": "Europe/London"
+                },
+                "officialSite": "https://www.bbc.co.uk/bbcone"
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": 24671,
+                "thetvdb": 135101,
+                "imdb": "tt1579293"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/160/400294.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/160/400294.jpg"
+            },
+            "summary": "<p>Drama about dreams, love, clothes and how we all use them to run away from who we are and towards who we should be.</p>",
+            "updated": 1589333414,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/15090"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/686374"
+                }
+            }
+        }
+    }
+]

@@ -1,0 +1,1698 @@
+// Vitest Snapshot v1
+
+exports[`show-list-item mount 1`] = `
+"<div id=\\"169-card\\" class=\\"card\\">
+  <nuxt-link to=\\"/169/show\\">
+    <div class=\\"card__content\\">
+      <div class=\\"card__image\\"><img loading=\\"lazy\\" src=\\"https://static.tvmaze.com/uploads/images/medium_portrait/0/2400.jpg\\" alt=\\"title image for the specific show\\"></div>
+      <div class=\\"card__body\\">
+        <h5 class=\\"card__title\\">Breaking Bad</h5>
+      </div>
+    </div>
+  </nuxt-link>
+</div>"
+`;
+
+exports[`toUpperCase 1`] = `
+VueWrapper {
+  "__app": {
+    "_component": {
+      "name": "VTU_ROOT",
+      "render": [Function],
+    },
+    "_container": <div
+      data-v-app=""
+    >
+      <div
+        class="card"
+        id="169-card"
+      >
+        <nuxt-link
+          to="/169/show"
+        >
+          <div
+            class="card__content"
+          >
+            <div
+              class="card__image"
+            >
+              <img
+                alt="title image for the specific show"
+                loading="lazy"
+                src="https://static.tvmaze.com/uploads/images/medium_portrait/0/2400.jpg"
+              />
+            </div>
+            <div
+              class="card__body"
+            >
+              <h5
+                class="card__title"
+              >
+                Breaking Bad
+              </h5>
+            </div>
+          </div>
+        </nuxt-link>
+      </div>
+    </div>,
+    "_context": {
+      "app": [Circular],
+      "components": {
+        "transition": {
+          "name": "transition",
+        },
+        "transition-group": {
+          "name": "transition-group",
+        },
+      },
+      "config": {
+        "compilerOptions": {},
+        "errorHandler": undefined,
+        "globalProperties": {},
+        "isNativeTag": [Function],
+        "optionMergeStrategies": {},
+        "performance": false,
+        "warnHandler": undefined,
+      },
+      "directives": {},
+      "emitsCache": WeakMap {},
+      "mixins": [
+        {
+          "beforeCreate": [Function],
+        },
+      ],
+      "optionsCache": WeakMap {},
+      "propsCache": WeakMap {},
+      "provides": {},
+      "reload": [Function],
+    },
+    "_instance": {
+      "a": null,
+      "accessCache": {},
+      "appContext": {
+        "app": [Circular],
+        "components": {
+          "transition": {
+            "name": "transition",
+          },
+          "transition-group": {
+            "name": "transition-group",
+          },
+        },
+        "config": {
+          "compilerOptions": {},
+          "errorHandler": undefined,
+          "globalProperties": {},
+          "isNativeTag": [Function],
+          "optionMergeStrategies": {},
+          "performance": false,
+          "warnHandler": undefined,
+        },
+        "directives": {},
+        "emitsCache": WeakMap {},
+        "mixins": [
+          {
+            "beforeCreate": [Function],
+          },
+        ],
+        "optionsCache": WeakMap {},
+        "propsCache": WeakMap {},
+        "provides": {},
+        "reload": [Function],
+      },
+      "asyncDep": null,
+      "asyncResolved": false,
+      "attrs": {},
+      "bc": null,
+      "bm": null,
+      "bu": null,
+      "bum": null,
+      "c": null,
+      "components": null,
+      "ctx": {},
+      "da": null,
+      "data": {},
+      "directives": null,
+      "ec": null,
+      "effect": ReactiveEffect {
+        "active": true,
+        "allowRecurse": true,
+        "deps": [
+          Set {
+            [Circular],
+          },
+          Set {
+            [Circular],
+          },
+          Set {
+            [Circular],
+          },
+          Set {
+            [Circular],
+          },
+        ],
+        "fn": [Function],
+        "onTrack": undefined,
+        "onTrigger": undefined,
+        "parent": undefined,
+        "scheduler": [Function],
+      },
+      "emit": [Function],
+      "emitsOptions": null,
+      "emitted": null,
+      "exposeProxy": null,
+      "exposed": null,
+      "inheritAttrs": undefined,
+      "isDeactivated": false,
+      "isMounted": true,
+      "isUnmounted": false,
+      "m": null,
+      "next": null,
+      "parent": null,
+      "props": {},
+      "propsDefaults": {},
+      "propsOptions": [
+        {},
+        [],
+      ],
+      "provides": {},
+      "proxy": {},
+      "refs": {
+        "VTU_COMPONENT": {
+          "hasOwnProperty": [Function],
+        },
+      },
+      "render": [Function],
+      "renderCache": [],
+      "root": [Circular],
+      "rtc": null,
+      "rtg": null,
+      "scope": EffectScope {
+        "active": true,
+        "cleanups": [],
+        "effects": [
+          ReactiveEffect {
+            "active": true,
+            "allowRecurse": true,
+            "deps": [
+              Set {
+                [Circular],
+              },
+              Set {
+                [Circular],
+              },
+              Set {
+                [Circular],
+              },
+              Set {
+                [Circular],
+              },
+            ],
+            "fn": [Function],
+            "onTrack": undefined,
+            "onTrigger": undefined,
+            "parent": undefined,
+            "scheduler": [Function],
+          },
+        ],
+      },
+      "setupContext": null,
+      "setupState": {},
+      "slots": {},
+      "sp": null,
+      "subTree": {
+        "__v_isVNode": true,
+        "__v_skip": true,
+        "anchor": null,
+        "appContext": null,
+        "children": null,
+        "component": {
+          "a": null,
+          "accessCache": {},
+          "appContext": {
+            "app": [Circular],
+            "components": {
+              "transition": {
+                "name": "transition",
+              },
+              "transition-group": {
+                "name": "transition-group",
+              },
+            },
+            "config": {
+              "compilerOptions": {},
+              "errorHandler": undefined,
+              "globalProperties": {},
+              "isNativeTag": [Function],
+              "optionMergeStrategies": {},
+              "performance": false,
+              "warnHandler": undefined,
+            },
+            "directives": {},
+            "emitsCache": WeakMap {},
+            "mixins": [
+              {
+                "beforeCreate": [Function],
+              },
+            ],
+            "optionsCache": WeakMap {},
+            "propsCache": WeakMap {},
+            "provides": {},
+            "reload": [Function],
+          },
+          "asyncDep": null,
+          "asyncResolved": false,
+          "attrs": {},
+          "bc": null,
+          "bm": null,
+          "bu": null,
+          "bum": null,
+          "c": null,
+          "components": {},
+          "ctx": {
+            "show": {
+              "_links": {
+                "previousepisode": {
+                  "href": "https://api.tvmaze.com/episodes/2007806",
+                },
+                "self": {
+                  "href": "https://api.tvmaze.com/shows/169",
+                },
+              },
+              "averageRuntime": 60,
+              "dvdCountry": null,
+              "ended": "2019-10-11",
+              "externals": {
+                "imdb": "tt0903747",
+                "thetvdb": 81189,
+                "tvrage": 18164,
+              },
+              "genres": [
+                "Drama",
+                "Crime",
+                "Thriller",
+              ],
+              "id": 169,
+              "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2400.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2400.jpg",
+              },
+              "language": "English",
+              "name": "Breaking Bad",
+              "network": {
+                "country": {
+                  "code": "US",
+                  "name": "United States",
+                  "timezone": "America/New_York",
+                },
+                "id": 20,
+                "name": "AMC",
+                "officialSite": null,
+              },
+              "officialSite": "http://www.amc.com/shows/breaking-bad",
+              "premiered": "2008-01-20",
+              "rating": {
+                "average": 9.2,
+              },
+              "runtime": 60,
+              "schedule": {
+                "days": [
+                  "Sunday",
+                ],
+                "time": "22:00",
+              },
+              "status": "Ended",
+              "summary": "<p><b>Breaking Bad</b> follows protagonist Walter White, a chemistry teacher who lives in New Mexico with his wife and teenage son who has cerebral palsy. White is diagnosed with Stage III cancer and given a prognosis of two years left to live. With a new sense of fearlessness based on his medical prognosis, and a desire to secure his family's financial security, White chooses to enter a dangerous world of drugs and crime and ascends to power in this world. The series explores how a fatal diagnosis such as White's releases a typical man from the daily concerns and constraints of normal society and follows his transformation from mild family man to a kingpin of the drug trade.</p>",
+              "type": "Scripted",
+              "updated": 1663295367,
+              "url": "https://www.tvmaze.com/shows/169/breaking-bad",
+              "webChannel": null,
+              "weight": 99,
+            },
+          },
+          "da": null,
+          "data": {},
+          "devtoolsRawSetupState": {},
+          "directives": null,
+          "ec": null,
+          "effect": ReactiveEffect {
+            "active": true,
+            "allowRecurse": true,
+            "deps": [
+              Set {
+                [Circular],
+              },
+              Set {
+                [Circular],
+              },
+              Set {
+                [Circular],
+              },
+              Set {
+                [Circular],
+              },
+              Set {
+                [Circular],
+              },
+            ],
+            "fn": [Function],
+            "onTrack": undefined,
+            "onTrigger": undefined,
+            "parent": undefined,
+            "scheduler": [Function],
+          },
+          "emit": [Function],
+          "emitsOptions": null,
+          "emitted": null,
+          "exposeProxy": {
+            "hasOwnProperty": [Function],
+          },
+          "exposed": {
+            "hasOwnProperty": [Function],
+          },
+          "inheritAttrs": undefined,
+          "isDeactivated": false,
+          "isMounted": true,
+          "isUnmounted": false,
+          "m": null,
+          "next": null,
+          "parent": [Circular],
+          "props": {
+            "show": {
+              "_links": {
+                "previousepisode": {
+                  "href": "https://api.tvmaze.com/episodes/2007806",
+                },
+                "self": {
+                  "href": "https://api.tvmaze.com/shows/169",
+                },
+              },
+              "averageRuntime": 60,
+              "dvdCountry": null,
+              "ended": "2019-10-11",
+              "externals": {
+                "imdb": "tt0903747",
+                "thetvdb": 81189,
+                "tvrage": 18164,
+              },
+              "genres": [
+                "Drama",
+                "Crime",
+                "Thriller",
+              ],
+              "id": 169,
+              "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2400.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2400.jpg",
+              },
+              "language": "English",
+              "name": "Breaking Bad",
+              "network": {
+                "country": {
+                  "code": "US",
+                  "name": "United States",
+                  "timezone": "America/New_York",
+                },
+                "id": 20,
+                "name": "AMC",
+                "officialSite": null,
+              },
+              "officialSite": "http://www.amc.com/shows/breaking-bad",
+              "premiered": "2008-01-20",
+              "rating": {
+                "average": 9.2,
+              },
+              "runtime": 60,
+              "schedule": {
+                "days": [
+                  "Sunday",
+                ],
+                "time": "22:00",
+              },
+              "status": "Ended",
+              "summary": "<p><b>Breaking Bad</b> follows protagonist Walter White, a chemistry teacher who lives in New Mexico with his wife and teenage son who has cerebral palsy. White is diagnosed with Stage III cancer and given a prognosis of two years left to live. With a new sense of fearlessness based on his medical prognosis, and a desire to secure his family's financial security, White chooses to enter a dangerous world of drugs and crime and ascends to power in this world. The series explores how a fatal diagnosis such as White's releases a typical man from the daily concerns and constraints of normal society and follows his transformation from mild family man to a kingpin of the drug trade.</p>",
+              "type": "Scripted",
+              "updated": 1663295367,
+              "url": "https://www.tvmaze.com/shows/169/breaking-bad",
+              "webChannel": null,
+              "weight": 99,
+            },
+          },
+          "propsDefaults": {},
+          "propsOptions": [
+            {
+              "show": {
+                "0": false,
+                "1": true,
+                "required": true,
+                "type": null,
+              },
+            },
+            [],
+          ],
+          "provides": {},
+          "proxy": {
+            "show": {
+              "_links": {
+                "previousepisode": {
+                  "href": "https://api.tvmaze.com/episodes/2007806",
+                },
+                "self": {
+                  "href": "https://api.tvmaze.com/shows/169",
+                },
+              },
+              "averageRuntime": 60,
+              "dvdCountry": null,
+              "ended": "2019-10-11",
+              "externals": {
+                "imdb": "tt0903747",
+                "thetvdb": 81189,
+                "tvrage": 18164,
+              },
+              "genres": [
+                "Drama",
+                "Crime",
+                "Thriller",
+              ],
+              "id": 169,
+              "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2400.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2400.jpg",
+              },
+              "language": "English",
+              "name": "Breaking Bad",
+              "network": {
+                "country": {
+                  "code": "US",
+                  "name": "United States",
+                  "timezone": "America/New_York",
+                },
+                "id": 20,
+                "name": "AMC",
+                "officialSite": null,
+              },
+              "officialSite": "http://www.amc.com/shows/breaking-bad",
+              "premiered": "2008-01-20",
+              "rating": {
+                "average": 9.2,
+              },
+              "runtime": 60,
+              "schedule": {
+                "days": [
+                  "Sunday",
+                ],
+                "time": "22:00",
+              },
+              "status": "Ended",
+              "summary": "<p><b>Breaking Bad</b> follows protagonist Walter White, a chemistry teacher who lives in New Mexico with his wife and teenage son who has cerebral palsy. White is diagnosed with Stage III cancer and given a prognosis of two years left to live. With a new sense of fearlessness based on his medical prognosis, and a desire to secure his family's financial security, White chooses to enter a dangerous world of drugs and crime and ascends to power in this world. The series explores how a fatal diagnosis such as White's releases a typical man from the daily concerns and constraints of normal society and follows his transformation from mild family man to a kingpin of the drug trade.</p>",
+              "type": "Scripted",
+              "updated": 1663295367,
+              "url": "https://www.tvmaze.com/shows/169/breaking-bad",
+              "webChannel": null,
+              "weight": 99,
+            },
+          },
+          "refs": {},
+          "render": [Function],
+          "renderCache": [],
+          "root": [Circular],
+          "rtc": null,
+          "rtg": null,
+          "scope": EffectScope {
+            "active": true,
+            "cleanups": [],
+            "effects": [
+              ReactiveEffect {
+                "active": true,
+                "allowRecurse": true,
+                "deps": [
+                  Set {
+                    [Circular],
+                  },
+                  Set {
+                    [Circular],
+                  },
+                  Set {
+                    [Circular],
+                  },
+                  Set {
+                    [Circular],
+                  },
+                  Set {
+                    [Circular],
+                  },
+                ],
+                "fn": [Function],
+                "onTrack": undefined,
+                "onTrigger": undefined,
+                "parent": undefined,
+                "scheduler": [Function],
+              },
+            ],
+          },
+          "setupContext": {
+            "attrs": {},
+            "emit": [Function],
+            "expose": [Function],
+            "slots": {},
+          },
+          "setupState": {},
+          "slots": {},
+          "sp": null,
+          "subTree": {
+            "__v_isVNode": true,
+            "__v_skip": true,
+            "anchor": null,
+            "appContext": null,
+            "children": [
+              {
+                "__v_isVNode": true,
+                "__v_skip": true,
+                "anchor": null,
+                "appContext": null,
+                "children": [
+                  {
+                    "__v_isVNode": true,
+                    "__v_skip": true,
+                    "anchor": null,
+                    "appContext": null,
+                    "children": [
+                      {
+                        "__v_isVNode": true,
+                        "__v_skip": true,
+                        "anchor": null,
+                        "appContext": null,
+                        "children": [
+                          {
+                            "__v_isVNode": true,
+                            "__v_skip": true,
+                            "anchor": null,
+                            "appContext": null,
+                            "children": null,
+                            "component": null,
+                            "dirs": null,
+                            "dynamicChildren": null,
+                            "dynamicProps": [
+                              "src",
+                            ],
+                            "el": <img
+                              alt="title image for the specific show"
+                              loading="lazy"
+                              src="https://static.tvmaze.com/uploads/images/medium_portrait/0/2400.jpg"
+                            />,
+                            "key": null,
+                            "patchFlag": 8,
+                            "props": {
+                              "alt": "title image for the specific show",
+                              "loading": "lazy",
+                              "src": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2400.jpg",
+                            },
+                            "ref": null,
+                            "scopeId": null,
+                            "shapeFlag": 1,
+                            "slotScopeIds": null,
+                            "ssContent": null,
+                            "ssFallback": null,
+                            "staticCount": 0,
+                            "suspense": null,
+                            "target": null,
+                            "targetAnchor": null,
+                            "transition": null,
+                            "type": "img",
+                          },
+                        ],
+                        "component": null,
+                        "dirs": null,
+                        "dynamicChildren": null,
+                        "dynamicProps": null,
+                        "el": <div
+                          class="card__image"
+                        >
+                          <img
+                            alt="title image for the specific show"
+                            loading="lazy"
+                            src="https://static.tvmaze.com/uploads/images/medium_portrait/0/2400.jpg"
+                          />
+                        </div>,
+                        "key": null,
+                        "patchFlag": 0,
+                        "props": {
+                          "class": "card__image",
+                        },
+                        "ref": null,
+                        "scopeId": null,
+                        "shapeFlag": 17,
+                        "slotScopeIds": null,
+                        "ssContent": null,
+                        "ssFallback": null,
+                        "staticCount": 0,
+                        "suspense": null,
+                        "target": null,
+                        "targetAnchor": null,
+                        "transition": null,
+                        "type": "div",
+                      },
+                      {
+                        "__v_isVNode": true,
+                        "__v_skip": true,
+                        "anchor": null,
+                        "appContext": null,
+                        "children": [
+                          {
+                            "__v_isVNode": true,
+                            "__v_skip": true,
+                            "anchor": null,
+                            "appContext": null,
+                            "children": "Breaking Bad",
+                            "component": null,
+                            "dirs": null,
+                            "dynamicChildren": null,
+                            "dynamicProps": null,
+                            "el": <h5
+                              class="card__title"
+                            >
+                              Breaking Bad
+                            </h5>,
+                            "key": null,
+                            "patchFlag": 1,
+                            "props": {
+                              "class": "card__title",
+                            },
+                            "ref": null,
+                            "scopeId": null,
+                            "shapeFlag": 9,
+                            "slotScopeIds": null,
+                            "ssContent": null,
+                            "ssFallback": null,
+                            "staticCount": 0,
+                            "suspense": null,
+                            "target": null,
+                            "targetAnchor": null,
+                            "transition": null,
+                            "type": "h5",
+                          },
+                        ],
+                        "component": null,
+                        "dirs": null,
+                        "dynamicChildren": null,
+                        "dynamicProps": null,
+                        "el": <div
+                          class="card__body"
+                        >
+                          <h5
+                            class="card__title"
+                          >
+                            Breaking Bad
+                          </h5>
+                        </div>,
+                        "key": null,
+                        "patchFlag": 0,
+                        "props": {
+                          "class": "card__body",
+                        },
+                        "ref": null,
+                        "scopeId": null,
+                        "shapeFlag": 17,
+                        "slotScopeIds": null,
+                        "ssContent": null,
+                        "ssFallback": null,
+                        "staticCount": 0,
+                        "suspense": null,
+                        "target": null,
+                        "targetAnchor": null,
+                        "transition": null,
+                        "type": "div",
+                      },
+                    ],
+                    "component": null,
+                    "dirs": null,
+                    "dynamicChildren": null,
+                    "dynamicProps": null,
+                    "el": <div
+                      class="card__content"
+                    >
+                      <div
+                        class="card__image"
+                      >
+                        <img
+                          alt="title image for the specific show"
+                          loading="lazy"
+                          src="https://static.tvmaze.com/uploads/images/medium_portrait/0/2400.jpg"
+                        />
+                      </div>
+                      <div
+                        class="card__body"
+                      >
+                        <h5
+                          class="card__title"
+                        >
+                          Breaking Bad
+                        </h5>
+                      </div>
+                    </div>,
+                    "key": null,
+                    "patchFlag": 0,
+                    "props": {
+                      "class": "card__content",
+                    },
+                    "ref": null,
+                    "scopeId": null,
+                    "shapeFlag": 17,
+                    "slotScopeIds": null,
+                    "ssContent": null,
+                    "ssFallback": null,
+                    "staticCount": 0,
+                    "suspense": null,
+                    "target": null,
+                    "targetAnchor": null,
+                    "transition": null,
+                    "type": "div",
+                  },
+                ],
+                "component": null,
+                "dirs": null,
+                "dynamicChildren": null,
+                "dynamicProps": [
+                  "to",
+                ],
+                "el": <nuxt-link
+                  to="/169/show"
+                >
+                  <div
+                    class="card__content"
+                  >
+                    <div
+                      class="card__image"
+                    >
+                      <img
+                        alt="title image for the specific show"
+                        loading="lazy"
+                        src="https://static.tvmaze.com/uploads/images/medium_portrait/0/2400.jpg"
+                      />
+                    </div>
+                    <div
+                      class="card__body"
+                    >
+                      <h5
+                        class="card__title"
+                      >
+                        Breaking Bad
+                      </h5>
+                    </div>
+                  </div>
+                </nuxt-link>,
+                "key": null,
+                "patchFlag": 8,
+                "props": {
+                  "to": "/169/show",
+                },
+                "ref": null,
+                "scopeId": null,
+                "shapeFlag": 17,
+                "slotScopeIds": null,
+                "ssContent": null,
+                "ssFallback": null,
+                "staticCount": 0,
+                "suspense": null,
+                "target": null,
+                "targetAnchor": null,
+                "transition": null,
+                "type": "nuxt-link",
+              },
+            ],
+            "component": null,
+            "dirs": null,
+            "dynamicChildren": [
+              {
+                "__v_isVNode": true,
+                "__v_skip": true,
+                "anchor": null,
+                "appContext": null,
+                "children": null,
+                "component": null,
+                "dirs": null,
+                "dynamicChildren": null,
+                "dynamicProps": [
+                  "src",
+                ],
+                "el": <img
+                  alt="title image for the specific show"
+                  loading="lazy"
+                  src="https://static.tvmaze.com/uploads/images/medium_portrait/0/2400.jpg"
+                />,
+                "key": null,
+                "patchFlag": 8,
+                "props": {
+                  "alt": "title image for the specific show",
+                  "loading": "lazy",
+                  "src": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2400.jpg",
+                },
+                "ref": null,
+                "scopeId": null,
+                "shapeFlag": 1,
+                "slotScopeIds": null,
+                "ssContent": null,
+                "ssFallback": null,
+                "staticCount": 0,
+                "suspense": null,
+                "target": null,
+                "targetAnchor": null,
+                "transition": null,
+                "type": "img",
+              },
+              {
+                "__v_isVNode": true,
+                "__v_skip": true,
+                "anchor": null,
+                "appContext": null,
+                "children": "Breaking Bad",
+                "component": null,
+                "dirs": null,
+                "dynamicChildren": null,
+                "dynamicProps": null,
+                "el": <h5
+                  class="card__title"
+                >
+                  Breaking Bad
+                </h5>,
+                "key": null,
+                "patchFlag": 1,
+                "props": {
+                  "class": "card__title",
+                },
+                "ref": null,
+                "scopeId": null,
+                "shapeFlag": 9,
+                "slotScopeIds": null,
+                "ssContent": null,
+                "ssFallback": null,
+                "staticCount": 0,
+                "suspense": null,
+                "target": null,
+                "targetAnchor": null,
+                "transition": null,
+                "type": "h5",
+              },
+              {
+                "__v_isVNode": true,
+                "__v_skip": true,
+                "anchor": null,
+                "appContext": null,
+                "children": [
+                  {
+                    "__v_isVNode": true,
+                    "__v_skip": true,
+                    "anchor": null,
+                    "appContext": null,
+                    "children": [
+                      {
+                        "__v_isVNode": true,
+                        "__v_skip": true,
+                        "anchor": null,
+                        "appContext": null,
+                        "children": [
+                          {
+                            "__v_isVNode": true,
+                            "__v_skip": true,
+                            "anchor": null,
+                            "appContext": null,
+                            "children": null,
+                            "component": null,
+                            "dirs": null,
+                            "dynamicChildren": null,
+                            "dynamicProps": [
+                              "src",
+                            ],
+                            "el": <img
+                              alt="title image for the specific show"
+                              loading="lazy"
+                              src="https://static.tvmaze.com/uploads/images/medium_portrait/0/2400.jpg"
+                            />,
+                            "key": null,
+                            "patchFlag": 8,
+                            "props": {
+                              "alt": "title image for the specific show",
+                              "loading": "lazy",
+                              "src": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2400.jpg",
+                            },
+                            "ref": null,
+                            "scopeId": null,
+                            "shapeFlag": 1,
+                            "slotScopeIds": null,
+                            "ssContent": null,
+                            "ssFallback": null,
+                            "staticCount": 0,
+                            "suspense": null,
+                            "target": null,
+                            "targetAnchor": null,
+                            "transition": null,
+                            "type": "img",
+                          },
+                        ],
+                        "component": null,
+                        "dirs": null,
+                        "dynamicChildren": null,
+                        "dynamicProps": null,
+                        "el": <div
+                          class="card__image"
+                        >
+                          <img
+                            alt="title image for the specific show"
+                            loading="lazy"
+                            src="https://static.tvmaze.com/uploads/images/medium_portrait/0/2400.jpg"
+                          />
+                        </div>,
+                        "key": null,
+                        "patchFlag": 0,
+                        "props": {
+                          "class": "card__image",
+                        },
+                        "ref": null,
+                        "scopeId": null,
+                        "shapeFlag": 17,
+                        "slotScopeIds": null,
+                        "ssContent": null,
+                        "ssFallback": null,
+                        "staticCount": 0,
+                        "suspense": null,
+                        "target": null,
+                        "targetAnchor": null,
+                        "transition": null,
+                        "type": "div",
+                      },
+                      {
+                        "__v_isVNode": true,
+                        "__v_skip": true,
+                        "anchor": null,
+                        "appContext": null,
+                        "children": [
+                          {
+                            "__v_isVNode": true,
+                            "__v_skip": true,
+                            "anchor": null,
+                            "appContext": null,
+                            "children": "Breaking Bad",
+                            "component": null,
+                            "dirs": null,
+                            "dynamicChildren": null,
+                            "dynamicProps": null,
+                            "el": <h5
+                              class="card__title"
+                            >
+                              Breaking Bad
+                            </h5>,
+                            "key": null,
+                            "patchFlag": 1,
+                            "props": {
+                              "class": "card__title",
+                            },
+                            "ref": null,
+                            "scopeId": null,
+                            "shapeFlag": 9,
+                            "slotScopeIds": null,
+                            "ssContent": null,
+                            "ssFallback": null,
+                            "staticCount": 0,
+                            "suspense": null,
+                            "target": null,
+                            "targetAnchor": null,
+                            "transition": null,
+                            "type": "h5",
+                          },
+                        ],
+                        "component": null,
+                        "dirs": null,
+                        "dynamicChildren": null,
+                        "dynamicProps": null,
+                        "el": <div
+                          class="card__body"
+                        >
+                          <h5
+                            class="card__title"
+                          >
+                            Breaking Bad
+                          </h5>
+                        </div>,
+                        "key": null,
+                        "patchFlag": 0,
+                        "props": {
+                          "class": "card__body",
+                        },
+                        "ref": null,
+                        "scopeId": null,
+                        "shapeFlag": 17,
+                        "slotScopeIds": null,
+                        "ssContent": null,
+                        "ssFallback": null,
+                        "staticCount": 0,
+                        "suspense": null,
+                        "target": null,
+                        "targetAnchor": null,
+                        "transition": null,
+                        "type": "div",
+                      },
+                    ],
+                    "component": null,
+                    "dirs": null,
+                    "dynamicChildren": null,
+                    "dynamicProps": null,
+                    "el": <div
+                      class="card__content"
+                    >
+                      <div
+                        class="card__image"
+                      >
+                        <img
+                          alt="title image for the specific show"
+                          loading="lazy"
+                          src="https://static.tvmaze.com/uploads/images/medium_portrait/0/2400.jpg"
+                        />
+                      </div>
+                      <div
+                        class="card__body"
+                      >
+                        <h5
+                          class="card__title"
+                        >
+                          Breaking Bad
+                        </h5>
+                      </div>
+                    </div>,
+                    "key": null,
+                    "patchFlag": 0,
+                    "props": {
+                      "class": "card__content",
+                    },
+                    "ref": null,
+                    "scopeId": null,
+                    "shapeFlag": 17,
+                    "slotScopeIds": null,
+                    "ssContent": null,
+                    "ssFallback": null,
+                    "staticCount": 0,
+                    "suspense": null,
+                    "target": null,
+                    "targetAnchor": null,
+                    "transition": null,
+                    "type": "div",
+                  },
+                ],
+                "component": null,
+                "dirs": null,
+                "dynamicChildren": null,
+                "dynamicProps": [
+                  "to",
+                ],
+                "el": <nuxt-link
+                  to="/169/show"
+                >
+                  <div
+                    class="card__content"
+                  >
+                    <div
+                      class="card__image"
+                    >
+                      <img
+                        alt="title image for the specific show"
+                        loading="lazy"
+                        src="https://static.tvmaze.com/uploads/images/medium_portrait/0/2400.jpg"
+                      />
+                    </div>
+                    <div
+                      class="card__body"
+                    >
+                      <h5
+                        class="card__title"
+                      >
+                        Breaking Bad
+                      </h5>
+                    </div>
+                  </div>
+                </nuxt-link>,
+                "key": null,
+                "patchFlag": 8,
+                "props": {
+                  "to": "/169/show",
+                },
+                "ref": null,
+                "scopeId": null,
+                "shapeFlag": 17,
+                "slotScopeIds": null,
+                "ssContent": null,
+                "ssFallback": null,
+                "staticCount": 0,
+                "suspense": null,
+                "target": null,
+                "targetAnchor": null,
+                "transition": null,
+                "type": "nuxt-link",
+              },
+            ],
+            "dynamicProps": [
+              "id",
+            ],
+            "el": <div
+              class="card"
+              id="169-card"
+            >
+              <nuxt-link
+                to="/169/show"
+              >
+                <div
+                  class="card__content"
+                >
+                  <div
+                    class="card__image"
+                  >
+                    <img
+                      alt="title image for the specific show"
+                      loading="lazy"
+                      src="https://static.tvmaze.com/uploads/images/medium_portrait/0/2400.jpg"
+                    />
+                  </div>
+                  <div
+                    class="card__body"
+                  >
+                    <h5
+                      class="card__title"
+                    >
+                      Breaking Bad
+                    </h5>
+                  </div>
+                </div>
+              </nuxt-link>
+            </div>,
+            "key": null,
+            "patchFlag": 8,
+            "props": {
+              "class": "card",
+              "id": "169-card",
+            },
+            "ref": null,
+            "scopeId": null,
+            "shapeFlag": 17,
+            "slotScopeIds": null,
+            "ssContent": null,
+            "ssFallback": null,
+            "staticCount": 0,
+            "suspense": null,
+            "target": null,
+            "targetAnchor": null,
+            "transition": null,
+            "type": "div",
+          },
+          "suspense": null,
+          "suspenseId": 0,
+          "type": {
+            "__file": "/Users/deanwake/Projects/television-vue/components/show-list-item.vue",
+            "__name": "show-list-item",
+            "components": {},
+            "props": {
+              "show": {
+                "0": false,
+                "1": true,
+                "required": true,
+                "type": null,
+              },
+            },
+            "propsData": {
+              "show": {
+                "_links": {
+                  "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/2007806",
+                  },
+                  "self": {
+                    "href": "https://api.tvmaze.com/shows/169",
+                  },
+                },
+                "averageRuntime": 60,
+                "dvdCountry": null,
+                "ended": "2019-10-11",
+                "externals": {
+                  "imdb": "tt0903747",
+                  "thetvdb": 81189,
+                  "tvrage": 18164,
+                },
+                "genres": [
+                  "Drama",
+                  "Crime",
+                  "Thriller",
+                ],
+                "id": 169,
+                "image": {
+                  "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2400.jpg",
+                  "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2400.jpg",
+                },
+                "language": "English",
+                "name": "Breaking Bad",
+                "network": {
+                  "country": {
+                    "code": "US",
+                    "name": "United States",
+                    "timezone": "America/New_York",
+                  },
+                  "id": 20,
+                  "name": "AMC",
+                  "officialSite": null,
+                },
+                "officialSite": "http://www.amc.com/shows/breaking-bad",
+                "premiered": "2008-01-20",
+                "rating": {
+                  "average": 9.2,
+                },
+                "runtime": 60,
+                "schedule": {
+                  "days": [
+                    "Sunday",
+                  ],
+                  "time": "22:00",
+                },
+                "status": "Ended",
+                "summary": "<p><b>Breaking Bad</b> follows protagonist Walter White, a chemistry teacher who lives in New Mexico with his wife and teenage son who has cerebral palsy. White is diagnosed with Stage III cancer and given a prognosis of two years left to live. With a new sense of fearlessness based on his medical prognosis, and a desire to secure his family's financial security, White chooses to enter a dangerous world of drugs and crime and ascends to power in this world. The series explores how a fatal diagnosis such as White's releases a typical man from the daily concerns and constraints of normal society and follows his transformation from mild family man to a kingpin of the drug trade.</p>",
+                "type": "Scripted",
+                "updated": 1663295367,
+                "url": "https://www.tvmaze.com/shows/169/breaking-bad",
+                "webChannel": null,
+                "weight": 99,
+              },
+            },
+            "render": [Function],
+            "setup": [Function],
+          },
+          "u": null,
+          "uid": 1,
+          "um": null,
+          "update": [Function],
+          "vnode": [Circular],
+          "withProxy": null,
+        },
+        "dirs": null,
+        "dynamicChildren": null,
+        "dynamicProps": null,
+        "el": <div
+          class="card"
+          id="169-card"
+        >
+          <nuxt-link
+            to="/169/show"
+          >
+            <div
+              class="card__content"
+            >
+              <div
+                class="card__image"
+              >
+                <img
+                  alt="title image for the specific show"
+                  loading="lazy"
+                  src="https://static.tvmaze.com/uploads/images/medium_portrait/0/2400.jpg"
+                />
+              </div>
+              <div
+                class="card__body"
+              >
+                <h5
+                  class="card__title"
+                >
+                  Breaking Bad
+                </h5>
+              </div>
+            </div>
+          </nuxt-link>
+        </div>,
+        "key": null,
+        "patchFlag": 0,
+        "props": {
+          "ref": "VTU_COMPONENT",
+          "show": {
+            "_links": {
+              "previousepisode": {
+                "href": "https://api.tvmaze.com/episodes/2007806",
+              },
+              "self": {
+                "href": "https://api.tvmaze.com/shows/169",
+              },
+            },
+            "averageRuntime": 60,
+            "dvdCountry": null,
+            "ended": "2019-10-11",
+            "externals": {
+              "imdb": "tt0903747",
+              "thetvdb": 81189,
+              "tvrage": 18164,
+            },
+            "genres": [
+              "Drama",
+              "Crime",
+              "Thriller",
+            ],
+            "id": 169,
+            "image": {
+              "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2400.jpg",
+              "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2400.jpg",
+            },
+            "language": "English",
+            "name": "Breaking Bad",
+            "network": {
+              "country": {
+                "code": "US",
+                "name": "United States",
+                "timezone": "America/New_York",
+              },
+              "id": 20,
+              "name": "AMC",
+              "officialSite": null,
+            },
+            "officialSite": "http://www.amc.com/shows/breaking-bad",
+            "premiered": "2008-01-20",
+            "rating": {
+              "average": 9.2,
+            },
+            "runtime": 60,
+            "schedule": {
+              "days": [
+                "Sunday",
+              ],
+              "time": "22:00",
+            },
+            "status": "Ended",
+            "summary": "<p><b>Breaking Bad</b> follows protagonist Walter White, a chemistry teacher who lives in New Mexico with his wife and teenage son who has cerebral palsy. White is diagnosed with Stage III cancer and given a prognosis of two years left to live. With a new sense of fearlessness based on his medical prognosis, and a desire to secure his family's financial security, White chooses to enter a dangerous world of drugs and crime and ascends to power in this world. The series explores how a fatal diagnosis such as White's releases a typical man from the daily concerns and constraints of normal society and follows his transformation from mild family man to a kingpin of the drug trade.</p>",
+            "type": "Scripted",
+            "updated": 1663295367,
+            "url": "https://www.tvmaze.com/shows/169/breaking-bad",
+            "webChannel": null,
+            "weight": 99,
+          },
+        },
+        "ref": {
+          "f": false,
+          "i": [Circular],
+          "k": undefined,
+          "r": "VTU_COMPONENT",
+        },
+        "scopeId": null,
+        "shapeFlag": 4,
+        "slotScopeIds": null,
+        "ssContent": null,
+        "ssFallback": null,
+        "staticCount": 0,
+        "suspense": null,
+        "target": null,
+        "targetAnchor": null,
+        "transition": null,
+        "type": {
+          "__file": "/Users/deanwake/Projects/television-vue/components/show-list-item.vue",
+          "__name": "show-list-item",
+          "components": {},
+          "props": {
+            "show": {
+              "0": false,
+              "1": true,
+              "required": true,
+              "type": null,
+            },
+          },
+          "propsData": {
+            "show": {
+              "_links": {
+                "previousepisode": {
+                  "href": "https://api.tvmaze.com/episodes/2007806",
+                },
+                "self": {
+                  "href": "https://api.tvmaze.com/shows/169",
+                },
+              },
+              "averageRuntime": 60,
+              "dvdCountry": null,
+              "ended": "2019-10-11",
+              "externals": {
+                "imdb": "tt0903747",
+                "thetvdb": 81189,
+                "tvrage": 18164,
+              },
+              "genres": [
+                "Drama",
+                "Crime",
+                "Thriller",
+              ],
+              "id": 169,
+              "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2400.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2400.jpg",
+              },
+              "language": "English",
+              "name": "Breaking Bad",
+              "network": {
+                "country": {
+                  "code": "US",
+                  "name": "United States",
+                  "timezone": "America/New_York",
+                },
+                "id": 20,
+                "name": "AMC",
+                "officialSite": null,
+              },
+              "officialSite": "http://www.amc.com/shows/breaking-bad",
+              "premiered": "2008-01-20",
+              "rating": {
+                "average": 9.2,
+              },
+              "runtime": 60,
+              "schedule": {
+                "days": [
+                  "Sunday",
+                ],
+                "time": "22:00",
+              },
+              "status": "Ended",
+              "summary": "<p><b>Breaking Bad</b> follows protagonist Walter White, a chemistry teacher who lives in New Mexico with his wife and teenage son who has cerebral palsy. White is diagnosed with Stage III cancer and given a prognosis of two years left to live. With a new sense of fearlessness based on his medical prognosis, and a desire to secure his family's financial security, White chooses to enter a dangerous world of drugs and crime and ascends to power in this world. The series explores how a fatal diagnosis such as White's releases a typical man from the daily concerns and constraints of normal society and follows his transformation from mild family man to a kingpin of the drug trade.</p>",
+              "type": "Scripted",
+              "updated": 1663295367,
+              "url": "https://www.tvmaze.com/shows/169/breaking-bad",
+              "webChannel": null,
+              "weight": 99,
+            },
+          },
+          "render": [Function],
+          "setup": [Function],
+        },
+      },
+      "suspense": null,
+      "suspenseId": 0,
+      "type": {
+        "name": "VTU_ROOT",
+        "render": [Function],
+      },
+      "u": null,
+      "uid": 0,
+      "um": null,
+      "update": [Function],
+      "vnode": {
+        "__v_isVNode": true,
+        "__v_skip": true,
+        "anchor": null,
+        "appContext": {
+          "app": [Circular],
+          "components": {
+            "transition": {
+              "name": "transition",
+            },
+            "transition-group": {
+              "name": "transition-group",
+            },
+          },
+          "config": {
+            "compilerOptions": {},
+            "errorHandler": undefined,
+            "globalProperties": {},
+            "isNativeTag": [Function],
+            "optionMergeStrategies": {},
+            "performance": false,
+            "warnHandler": undefined,
+          },
+          "directives": {},
+          "emitsCache": WeakMap {},
+          "mixins": [
+            {
+              "beforeCreate": [Function],
+            },
+          ],
+          "optionsCache": WeakMap {},
+          "propsCache": WeakMap {},
+          "provides": {},
+          "reload": [Function],
+        },
+        "children": null,
+        "component": [Circular],
+        "dirs": null,
+        "dynamicChildren": null,
+        "dynamicProps": null,
+        "el": <div
+          class="card"
+          id="169-card"
+        >
+          <nuxt-link
+            to="/169/show"
+          >
+            <div
+              class="card__content"
+            >
+              <div
+                class="card__image"
+              >
+                <img
+                  alt="title image for the specific show"
+                  loading="lazy"
+                  src="https://static.tvmaze.com/uploads/images/medium_portrait/0/2400.jpg"
+                />
+              </div>
+              <div
+                class="card__body"
+              >
+                <h5
+                  class="card__title"
+                >
+                  Breaking Bad
+                </h5>
+              </div>
+            </div>
+          </nuxt-link>
+        </div>,
+        "key": null,
+        "patchFlag": 0,
+        "props": null,
+        "ref": null,
+        "scopeId": null,
+        "shapeFlag": 4,
+        "slotScopeIds": null,
+        "ssContent": null,
+        "ssFallback": null,
+        "staticCount": 0,
+        "suspense": null,
+        "target": null,
+        "targetAnchor": null,
+        "transition": null,
+        "type": {
+          "name": "VTU_ROOT",
+          "render": [Function],
+        },
+      },
+      "withProxy": null,
+    },
+    "_props": null,
+    "_uid": 0,
+    "component": [Function],
+    "config": {
+      "compilerOptions": {},
+      "errorHandler": undefined,
+      "globalProperties": {},
+      "isNativeTag": [Function],
+      "optionMergeStrategies": {},
+      "performance": false,
+      "warnHandler": undefined,
+    },
+    "directive": [Function],
+    "mixin": [Function],
+    "mount": [Function],
+    "provide": [Function],
+    "unmount": [Function],
+    "use": [Function],
+    "version": "3.2.40",
+  },
+  "__setProps": [Function],
+  "componentVM": {
+    "show": {
+      "_links": {
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2007806",
+        },
+        "self": {
+          "href": "https://api.tvmaze.com/shows/169",
+        },
+      },
+      "averageRuntime": 60,
+      "dvdCountry": null,
+      "ended": "2019-10-11",
+      "externals": {
+        "imdb": "tt0903747",
+        "thetvdb": 81189,
+        "tvrage": 18164,
+      },
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller",
+      ],
+      "id": 169,
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2400.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2400.jpg",
+      },
+      "language": "English",
+      "name": "Breaking Bad",
+      "network": {
+        "country": {
+          "code": "US",
+          "name": "United States",
+          "timezone": "America/New_York",
+        },
+        "id": 20,
+        "name": "AMC",
+        "officialSite": null,
+      },
+      "officialSite": "http://www.amc.com/shows/breaking-bad",
+      "premiered": "2008-01-20",
+      "rating": {
+        "average": 9.2,
+      },
+      "runtime": 60,
+      "schedule": {
+        "days": [
+          "Sunday",
+        ],
+        "time": "22:00",
+      },
+      "status": "Ended",
+      "summary": "<p><b>Breaking Bad</b> follows protagonist Walter White, a chemistry teacher who lives in New Mexico with his wife and teenage son who has cerebral palsy. White is diagnosed with Stage III cancer and given a prognosis of two years left to live. With a new sense of fearlessness based on his medical prognosis, and a desire to secure his family's financial security, White chooses to enter a dangerous world of drugs and crime and ascends to power in this world. The series explores how a fatal diagnosis such as White's releases a typical man from the daily concerns and constraints of normal society and follows his transformation from mild family man to a kingpin of the drug trade.</p>",
+      "type": "Scripted",
+      "updated": 1663295367,
+      "url": "https://www.tvmaze.com/shows/169/breaking-bad",
+      "webChannel": null,
+      "weight": 99,
+    },
+  },
+  "isDisabled": [Function],
+  "rootVM": {},
+  "wrapperElement": <div
+    class="card"
+    id="169-card"
+  >
+    <nuxt-link
+      to="/169/show"
+    >
+      <div
+        class="card__content"
+      >
+        <div
+          class="card__image"
+        >
+          <img
+            alt="title image for the specific show"
+            loading="lazy"
+            src="https://static.tvmaze.com/uploads/images/medium_portrait/0/2400.jpg"
+          />
+        </div>
+        <div
+          class="card__body"
+        >
+          <h5
+            class="card__title"
+          >
+            Breaking Bad
+          </h5>
+        </div>
+      </div>
+    </nuxt-link>
+  </div>,
+}
+`;

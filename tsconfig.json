@@ -5,7 +5,8 @@
     "types": [
       "@types/node",
       "@nuxt/types",
-      "@pinia/nuxt"
-    ]
-  }
+      "@pinia/nuxt",
+      "vitest/globals"
+    ],
+  },
 }

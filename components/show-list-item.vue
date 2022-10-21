@@ -1,6 +1,6 @@
 <template>
   <div :id="`${show.id}-card`" class="card">
-    <NuxtLink :to="`/${show.id}/show`">
+    <nuxt-link :to="`/${show.id}/show`">
       <div class="card__content">
         <div class="card__image">
           <img loading="lazy" :src="show.image.medium" alt="title image for the specific show">
@@ -11,7 +11,7 @@
           </h5>
         </div>
       </div>
-    </NuxtLink>
+    </nuxt-link>
   </div>
 </template>
 
@@ -21,7 +21,6 @@ import { Show } from '@/types/show';
 defineProps<{
   show: Show,
 }>();
-
 </script>
 
 <style lang="scss">
