@@ -7,9 +7,13 @@
     </div>
 
     <div v-if="show" class="m-10 border p-5">
-      <div class="show__image-container flex justify-center">
+      <div v-if="show.image" class="show__image-container flex justify-center">
         <img class="show__image--desktop" :src="show.image?.original" alt="selected show bannner image">
         <img class="show__image--mobile" :src="show.image?.medium" alt="selected show bannner image">
+      </div>
+
+      <div v-else class="show__image-container flex justify-center">
+        <img class="show__image--desktop" :src="placeholderImage" alt="selected show bannner image">
       </div>
 
       <div class="flex justify-center p-5">
@@ -28,6 +32,7 @@
 <script setup lang="ts">
 import { useShowStore } from '@/store/shows';
 import { Show } from '@/types/show';
+import placeholderImage from '@/assets/images/poster-placeholder.png';
 
 definePageMeta({
   title: 'NetShowFlixSearch - Show Details'

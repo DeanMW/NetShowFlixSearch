@@ -3,7 +3,11 @@
     <nuxt-link :to="`/${show.id}/show`">
       <div class="card__content">
         <div class="card__image">
-          <img loading="lazy" :src="show.image.medium" alt="title image for the specific show">
+          <img
+            loading="lazy"
+            :src="image"
+            alt="title image for the specific show"
+          >
         </div>
         <div class="card__body">
           <h5 class="card__title">
@@ -16,11 +20,14 @@
 </template>
 
 <script setup lang="ts">
+import placeholderImage from '@/assets/images/poster-placeholder.png';
 import { Show } from '@/types/show';
 
-defineProps<{
-  show: Show,
+const props = defineProps<{
+  show: Show;
 }>();
+
+const image = computed(() => props.show.image ? props.show.image.medium : placeholderImage);
 </script>
 
 <style lang="scss">
